@@ -24,3 +24,10 @@ Previous work
  ![133](https://user-images.githubusercontent.com/111392592/193662350-89a50987-53f6-46f8-8097-7dc87b00b0c9.png)
 
  ![132](https://user-images.githubusercontent.com/111392592/193662357-c02cd33c-db36-4171-952d-56a7f00615c2.png)
+
+
+
+# Major issue
+
+2022-10-03
+ Inappropriate Colors in some images
